@@ -1,0 +1,11 @@
+Prompt:
+que son estas importaciones 
+
+Promp:
+como soluciono los errores que aparecen en mi archivo supabase.ts.
+
+Promp:
+ mi archivo .env está bien?
+
+Prompt:
+Ayúdame a solucionar el error de dependencias de Supabase 

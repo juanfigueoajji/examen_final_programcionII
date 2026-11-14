@@ -1,0 +1,16 @@
+A)  se creo una app donde los usuarios puedan registrarse, iniciar sesión, ver películas y rentarlas. También debe existir un administrador que pueda agregar, eliminar películas y consultar las rentas.
+
+Utilicé Supabase y planeé tres tablas:
+
+Perfiles: información de los usuarios.
+
+Películas: título, género, descripción y precio.
+
+Rentas: usuario, película y fechas de renta.
+
+B) Utilicé ChatGPT para ayudarme a crear las pantallas, organizar las carpetas, conectar Supabase y generar las funciones principales.
+
+Lo utilicé porque me permitió comprender mejor el código y avanzar en el desarrollo de la aplicación.
+
+C) encontré errores en las rutas de importación porque no coincidían con las carpetas de mi proyecto. 
+Además, apareció un error relacionado con las dependencias de Supabase al ejecutar Expo, por lo que fue necesario revisar su instalación.
