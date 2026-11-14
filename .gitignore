@@ -1,0 +1,16 @@
+# Dependencias
+node_modules/
+
+# Expo
+.expo/
+
+# Variables privadas
+.env
+.env.*
+
+# Archivos de herramientas
+.claude/
+
+# Sistema
+.DS_Store
+Thumbs.db
